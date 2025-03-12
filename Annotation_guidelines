@@ -1,0 +1,143 @@
+# Yorùbá Universal Dependencies (UD) Treebank Annotation Guidelines  
+
+  Version 1.0   – Maintained by Ayodeji Olupinla  
+
+This document outlines the annotation principles used in the Yorùbá UD treebank to ensure   consistency, accuracy, and compliance with UD standards  .
+
+---
+
+##   1. General Guidelines  
+- All annotations follow   Universal Dependencies (UD) v2 guidelines  .
+- The dataset represents   spoken Yorùbá  , sourced from   high school textbooks  .
+-   Tonal distinctions   are   not explicitly marked   in UD annotation; instead,   glossing and context   are used for disambiguation.
+- The annotation process was   manually reviewed   with the assistance of a degree-holding Yorùbá linguist,   Akinpelu Olugbenro (BA. Ed.)  .
+
+---
+
+##   2. Part-of-Speech (POS) Tagging Guidelines  
+The following   Universal Part-of-Speech (UPOS) tags   were used in the Yorùbá UD treebank:
+
+|   POS Tag   |   Example   |   Explanation   |
+|------------|------------|----------------|
+|   NOUN   | ìwé ("book") | Used for common nouns. |
+|   PROPN   | Òjó ("Ojo") | Used for proper names. |
+|   PRON   | mo ("I") | Includes subject and object pronouns. |
+|   VERB   | lọ ("go") | Main verbs, including serial verb constructions. |
+|   AUX   | ti ("has"), yóò ("will") | Aspect and modality markers. |
+|   ADP   | sí ("to"), ní ("in") | Used for locative and directional relations. |
+|   DET   | náà ("the"), àwọn ("some") | Determiners, articles, and quantifiers. |
+|   ADJ   | tuntun ("new") | Adjectives that modify nouns. |
+|   ADV   | púpọ̀ ("a lot"), dáadáa ("well") | Adverbs, including reduplicated forms. |
+|   SCONJ   | tí ("that"), bí ("if") | Subordinating conjunctions. |
+|   CCONJ   | àti ("and") | Coordinating conjunctions. |
+|   PART   | ni ("FOC"), kò ("NEG") | Particles, including focus markers and negation. |
+|   NUM   | méjì ("two") | Numerals, cardinal and ordinal. |
+|   PUNCT   | . , ? ! | All punctuation marks. |
+
+---
+
+##   3. Dependency Relations  
+###   3.1 Root and Sentence Structure  
+- Every sentence must have   a single root   assigned to the main verb.
+- Nominal subjects (`nsubj`) and objects (`obj`) directly attach to the   root verb  .
+
+  Example:    
+# text = Ẹmi ni ọmọ yín. ("I am your child")
+1	Ẹmi	ẹmi	PRON	_	_	3	nsubj	_	Gloss=I
+2	ni	ni	AUX	_	_	3	cop	_	Gloss=am
+3	ọmọ	ọmọ	NOUN	_	_	0	root	_	Gloss=child
+4	yín	yín	PRON	_	_	3	nmod:poss	_	Gloss=your
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+
+---
+
+###   3.2 Serial Verb Constructions (SVCs)  
+-   SVCs are annotated using `compound:svc`  .
+-   Conjunctions are absent  ; all verbs   share the same subject  .
+-   Each verb remains independent   (unlike auxiliary verbs).
+
+  Example:    
+# text = Mónì sáré wọlé lọ́ gbé àkàbà jáde.(Moni rushed inside to carry the ladder out)
+1	Mónì	mónì	PROPN	_	_	2	nsubj	_	Gloss=Moni
+2	Sáré	sáré	VERB	_	_	0	root	_	Gloss=rushed
+3	Wọlé	wọlé	VERB	_	_	2	compound:svc	_	Gloss=entered
+4	Lọ́	lọ́	VERB	_	_	2	compound:svc	_	Gloss=went
+5	Gbé	gbé	VERB	_	_	2	compound:svc	_	Gloss=carried
+6	Àkàbà	àkàbà	NOUN	_	_	5	obj	_	Gloss=ladder
+7	Jáde	jáde	VERB	_	_	2	compound:svc	_	Gloss=out
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+
+---
+
+###   3.3 Aspect and Mood Markers  
+-   Aspect markers (`ti`, `ń`, `yóò`)   are tagged as `AUX` and linked to the verb with `aux`.
+
+  Example:    
+Jídé máa ń lọ sí Èkó ní òṣòòsù. (Jide always goes to Lagos every month)
+1	Jídé	jídé	PROPN	_	_	4	nsubj	_	Gloss=Jide
+2	máa	máa	AUX	_	_	4	aux	_	Gloss=habitually
+3	ń	ń	AUX	_	_	4	aux	_	Gloss=is
+4	lọ	lọ	VERB	_	_	0	root	_	Gloss=goes
+5	sí	sí	ADP	_	_	6	case	_	Gloss=to
+6	Èkó	èkó	PROPN	_	_	4	obl	_	Gloss=Lagos
+7	ní	ní	ADP	_	_	8	case	_	Gloss=every
+8	òṣòòsù	òṣòòsù	NOUN	_	_	4	obl	_	Gloss=monthly
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+---
+
+###   3.4 Adpositions (`ADP`)  
+-   Locative and directional words (`ní`, `sí`) are ADP  .
+- The noun that follows is labeled `obl`.
+
+  Example:    
+ text = Odùduwà tédò sí Ilé-Ifẹ̀.(Oduduwa settled in Ile-Ife)
+1	Odùduwà	odùduwà	PROPN	_	_	2	nsubj	_	Gloss=Oduduwa
+2	tédò	tédò	VERB	_	_	0	root	_	Gloss=founded.settlement
+3	sí	sí	ADP	_	_	4	case	_	Gloss=in
+4	Ilé-Ifẹ̀	ilé-ifẹ̀	PROPN	_	_	2	obl	_	Gloss=Ile-Ife
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+
+---
+
+###   3.5 Negation (`PART`)  
+- The negation marker `kò` is   labeled PART   and attached to the verb with `advmod`.
+
+  Example:    
+# text = Aṣọ dúdú kò dára. (Black CLothes are not good)
+1	Aṣọ	aṣọ	NOUN	_	_	4	nsubj	_	Gloss=cloth
+2	Dúdú	dúdú	ADJ	_	_	1	amod	_	Gloss=black
+3	Kò	kò	PART	_	_	4	neg	_	Gloss=not
+4	Dára	dára	VERB	_	_	0	root	_	Gloss=is good
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+
+---
+
+##   4. Contributing to This Treebank  
+The Yorùbá UD Treebank is open for contributions on   GitHub  :  
+📌   [GitHub Repository: YOUR_GITHUB_LINK]    
+
+Contributors can:
+-   Submit new sentences for annotation  .
+-   Refine existing annotations  .
+-   Propose changes to syntactic guidelines  .
+
+
+---
+
+-   Serial Verb Distinctions:   Further studies can refine how compound:svc compares to alternatives like `xcomp` or `conj` in other languages.
+-   Expanding the Corpus:   The current dataset consists of   100 sentences  ; expanding it to   thousands of annotated sentences   would improve NLP applications.
+
+---
+ For inquiries and collaboration, contact Ayodeji Olupinla at oludeji2002@gmail.com or contribute via GitHub.
+
+
+
+
+
+
