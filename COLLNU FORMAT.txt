@@ -1,0 +1,907 @@
+# Sentence 1
+# text = Mo fọ́n irúgbìn mi sí pápá oko tútù.
+1	Mọ́	mo	PRON	_	_	2	nsubj	_	Gloss=I
+2	Fọ́n	fọ́n	VERB	_	_	0	root	_	Gloss=scattered
+3	Irúgbìn	irúgbìn	NOUN	_	_	2	obj	_	Gloss=seed
+4	Mi	mi	PRON	_	_	3	nmod:poss	_	Gloss=my
+5	Sí	sí	ADP	_	_	6	case	_	Gloss=to
+6	Pápá	pápá	NOUN	_	_	2	obl	_	Gloss=open.field
+7	Oko	oko	NOUN	_	_	6	nmod	_	Gloss=farm
+8	Tútù	tútù	ADJ	_	_	7	amod	_	Gloss=cool
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 2
+# text = Túnráyọ́ fọ̀n lẹ́yìn àìsàn rànpẹ́.
+1	Túnráyọ́	tunrayo	PROPN	_	_	2	nsubj	_	Gloss=Tunrayo
+2	Fọ̀n	fọ̀n	VERB	_	_	0	root	_	Gloss=became.thin
+3	Lẹ́yìn	lẹ́yìn	ADP	_	_	4	case	_	Gloss=after
+4	Àìsàn	àìsàn	NOUN	_	_	2	obl	_	Gloss=illness
+5	Rànpẹ́	rànpẹ́	ADV	_	_	2	advmod	_	Gloss=quickly
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# Sentence 3
+# text = Olu yà owó lọ́wọ́ ọ̀rẹ́ rẹ̀.
+1	Olu	olu	NOUN	_	_	2	nsubj	_	Gloss=Olu
+2	Yà	yà	VERB	_	_	0	root	_	Gloss=borrowed
+3	Owó	owó	NOUN	_	_	2	obj	_	Gloss=money
+4	Lọ́wọ́	lọ́wọ́	ADP	_	_	5	case	_	Gloss=from
+5	Ọ̀rẹ́	ọ̀rẹ́	NOUN	_	_	2	obl	_	Gloss=friend
+6	Rẹ̀	rẹ̀	PRON	_	_	5	nmod:poss	_	Gloss=his
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 4
+# text = Olu yà aṣọ mọ́ ọn lárà.
+1	Olu	olu	NOUN	_	_	2	nsubj	_	Gloss=Olu
+2	Yà	yà	VERB	_	_	0	root	_	Gloss=tore
+3	Aṣọ	aṣọ	NOUN	_	_	2	obj	_	Gloss=cloth
+4	Mọ́	mọ́	ADP	_	_	5	case	_	Gloss=onto
+5	Ọn	ọ̀n	PRON	_	_	2	obj	_	Gloss=him
+6	Lárà	lárà	NOUN	_	_	2	obl	_	Gloss=body
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 5
+# text = Ìṣẹ́ ní òógùn ìṣẹ́.
+1	Ìṣẹ́	ìṣẹ́	NOUN	_	_	3	nsubj	_	Gloss=work
+2	Ní	ní	AUX	_	_	3	cop	_	Gloss=is
+3	Òógùn	òógùn	NOUN	_	_	0	root	_	Gloss=remedy
+4	Ìṣẹ́	ìṣẹ́	NOUN	_	_	3	nmod	_	Gloss=poverty
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 6
+# text = Ó wá iṣù wá sí ilé wá.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=He
+2	Wá	wá	VERB	_	_	0	root	_	Gloss=uprooted
+3	Iṣù	iṣù	NOUN	_	_	2	obj	_	Gloss=yam
+4	Wá	wá	VERB	_	_	2	compound:svc	_	Gloss=brought
+5	Sí	sí	ADP	_	_	6	case	_	Gloss=to
+6	Ilé	ilé	NOUN	_	_	2	obl	_	Gloss=house
+7	Wá	wá	PRON	_	_	6	nmod:poss	_	Gloss=our
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 7
+# text = Ojo bá mi ní ilé.
+1	Ojo	ojo	PROPN	_	_	2	nsubj	_	Gloss=Ojo
+2	Bá	bá	VERB	_	_	0	root	_	Gloss=met
+3	Mi	mi	PRON	_	_	2	obj	_	Gloss=me
+4	Ní	ní	ADP	_	_	5	case	_	Gloss=at
+5	Ilé	ilé	NOUN	_	_	2	obl	_	Gloss=home
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 8
+# text = Ojó bá mọ́lẹ̀.
+1	Ojó	ojo	PROPN	_	_	2	nsubj	_	Gloss=Ojo
+2	Bá	bá	VERB	_	_	0	root	_	Gloss=pinned.down
+3	Mọ́lẹ̀	mọ́lẹ̀	ADV	_	_	2	obl	_	Gloss=to.the.ground
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 9
+# text = Ó tà dáadáa.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=He
+2	Tà	tà	VERB	_	_	0	root	_	Gloss=sold
+3	Dáadáa	dáadáa	ADV	_	_	2	advmod	_	Gloss=well
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 10
+# text = Ó bá Bọ́lá tá ayò.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=He
+2	Bá	bá	VERB	_	_	0	root	_	Gloss=joined
+3	Bọ́lá	bọ́lá	PROPN	_	_	2	obj	_	Gloss=Bola
+4	Tá	tá	VERB	_	_	2	compound:svc	_	Gloss=play
+5	Ayò	ayò	NOUN	_	_	4	obj	_	Gloss=ayo.game
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 11
+# text = Adétútù lọ́ rà èwà ṣe jẹ.
+1	Adétútù	adetutu	PROPN	_	_	2	nsubj	_	Gloss=Adetutu
+2	Lọ́	lọ́	VERB	_	_	0	root	_	Gloss=went
+3	Rà	rà	VERB	_	_	2	compound:svc	_	Gloss=bought
+4	Èwà	èwà	NOUN	_	_	3	obj	_	Gloss=beans
+5	Ṣe	ṣe	VERB	_	_	2	compound:svc	_	Gloss=cooked
+6	Jẹ	jẹ	VERB	_	_	2	compound:svc	_	Gloss=ate
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 12
+# text = Mónì sáré wọlé lọ́ gbé àkàbà jáde.
+1	Mónì	mónì	PROPN	_	_	2	nsubj	_	Gloss=Moni
+2	Sáré	sáré	VERB	_	_	0	root	_	Gloss=rushed
+3	Wọlé	wọlé	VERB	_	_	2	compound:svc	_	Gloss=entered
+4	Lọ́	lọ́	VERB	_	_	2	compound:svc	_	Gloss=went
+5	Gbé	gbé	VERB	_	_	2	compound:svc	_	Gloss=carried
+6	Àkàbà	àkàbà	NOUN	_	_	5	obj	_	Gloss=ladder
+7	Jáde	jáde	VERB	_	_	2	compound:svc	_	Gloss=out
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 13
+# text = Àdè lọ́ pọn omi.
+1	Àdè	àdè	PROPN	_	_	2	nsubj	_	Gloss=Ade
+2	Lọ́	lọ́	VERB	_	_	0	root	_	Gloss=went
+3	Pọn	pọn	VERB	_	_	2	compound:svc	_	Gloss=fetched
+4	Omi	omi	NOUN	_	_	3	obj	_	Gloss=water
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 14
+# text = Àínà ṣe ìrẹsì tà.
+1	Àínà	àínà	PROPN	_	_	2	nsubj	_	Gloss=Aina
+2	Ṣe	ṣe	VERB	_	_	0	root	_	Gloss=cooked
+3	Ìrẹsì	ìrẹsì	NOUN	_	_	2	obj	_	Gloss=rice
+4	Tà	tà	VERB	_	_	2	compound:svc	_	Gloss=sold
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 15
+# text = Bàbá lé ọmọ nàá wọlé.
+1	Bàbá	bàbá	NOUN	_	_	2	nsubj	_	Gloss=Father
+2	Lé	lé	VERB	_	_	0	root	_	Gloss=chased
+3	Ọmọ	ọmọ	NOUN	_	_	2	obj	_	Gloss=child
+4	Nàá	nàá	DET	_	_	3	det	_	Gloss=the
+5	Wọlé	wọlé	VERB	_	_	2	compound:svc	_	Gloss=inside
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 16
+# text = Olu fẹ́ rà èbà jẹ.
+1	Olu	olu	PROPN	_	_	2	nsubj	_	Gloss=Olu
+2	Fẹ́	fẹ́	VERB	_	_	0	root	_	Gloss=wanted
+3	Rà	rà	VERB	_	_	2	compound:svc	_	Gloss=buy
+4	Èbà	èbà	NOUN	_	_	3	obj	_	Gloss=eba
+5	Jẹ	jẹ	VERB	_	_	2	compound:svc	_	Gloss=ate
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 17
+# text = Olu gbé àga wá.
+1	Olu	olu	PROPN	_	_	2	nsubj	_	Gloss=Olu
+2	Gbé	gbé	VERB	_	_	0	root	_	Gloss=carried
+3	Àga	àga	NOUN	_	_	2	obj	_	Gloss=chair
+4	Wá	wá	VERB	_	_	2	compound:svc	_	Gloss=came
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 18
+# text = Ẹṣin mu omi yọ.
+1	Ẹṣin	ẹṣin	NOUN	_	_	2	nsubj	_	Gloss=Horse
+2	Mu	mu	VERB	_	_	0	root	_	Gloss=drank
+3	Omi	omi	NOUN	_	_	2	obj	_	Gloss=water
+4	Yọ	yọ	VERB	_	_	2	compound:svc	_	Gloss=be full
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 19
+# text = Tóóyìn jí ẹran jẹ.
+1	Tóóyìn	tóóyìn	PROPN	_	_	2	nsubj	_	Gloss=Tooyin
+2	Jí	jí	VERB	_	_	0	root	_	Gloss=stole
+3	Ẹran	ẹran	NOUN	_	_	2	obj	_	Gloss=meat
+4	Jẹ	jẹ	VERB	_	_	2	compound:svc	_	Gloss=ate
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 20
+# text = Aṣọ tí Bọ́lú rà yà.
+1	Aṣọ	aṣọ	NOUN	_	_	4	nsubj	_	Gloss=cloth
+2	Tí	tí	SCONJ	_	_	4	mark	_	Gloss=that
+3	Bọ́lú	bọ́lú	PROPN	_	_	4	nsubj	_	Gloss=Bolu
+4	Rà	rà	VERB	_	_	0	root	_	Gloss=bought
+5	Yà	yà	VERB	_	_	4	compound:svc	_	Gloss=tear
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 21
+# text = Ètè méjì ni mo ní.
+1	Ètè	ètè	NOUN	_	_	5	nsubj	_	Gloss=lip
+2	Méjì	méjì	ADJ	_	_	1	amod	_	Gloss=two
+3	Ni	ni	PART	_	_	5	cop	_	Gloss=is
+4	Mo	mo	PRON	_	_	5	nsubj	_	Gloss=I
+5	Ní	ni	VERB	_	_	0	root	_	Gloss=have
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# Sentence 22
+# text = Ètò nàá ń lọ lọ́wọ́lọ́wọ́.
+1	Ètò	ètò	NOUN	_	_	4	nsubj	_	Gloss=plan
+2	Nàá	nàá	DET	_	_	1	det	_	Gloss=that
+3	Ń	ń	AUX	_	_	4	aux	_	Gloss=is
+4	Lọ	lọ	VERB	_	_	0	root	_	Gloss=going
+5	Lọ́wọ́lọ́wọ́	lọ́wọ́lọ́wọ́	ADV	_	_	4	advmod	_	Gloss=currently
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 23
+# text = Ẹyìn Bọ́lá fúnfún gàn-an.
+1	Ẹyìn	ẹyìn	NOUN	_	_	3	nsubj	_	Gloss=teeth
+2	Bọ́lá	bọ́lá	PROPN	_	_	1	nmod:poss	_	Gloss=Bola
+3	Fúnfún	fúnfún	ADJ	_	_	0	root	_	Gloss=white
+4	Gàn-an	gàn-an	ADV	_	_	3	advmod	_	Gloss=very
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 24
+# text = Àsín pa ẹkù jẹ.
+1	Àsín	àsín	NOUN	_	_	2	nsubj	_	Gloss=bat
+2	Pa	pa	VERB	_	_	0	root	_	Gloss=killed
+3	Ẹkù	ẹkù	NOUN	_	_	2	obj	_	Gloss=rat
+4	Jẹ	jẹ	VERB	_	_	2	compound:svc	_	Gloss=ate
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 25
+# text = Èwé ni wọ́n fi pọn mọ́ín-mọ́ín nàá.
+1	Èwé	èwé	NOUN	_	_	4	nsubj	_	Gloss=leaf
+2	Ni	ni	AUX	_	_	4	cop	_	Gloss=is
+3	Wọ́n	wọ́n	PRON	_	_	4	nsubj	_	Gloss=they
+4	Fi	fi	VERB	_	_	0	root	_	Gloss=used
+5	Pọn	pọn	VERB	_	_	4	compound:svc	_	Gloss=wrap
+6	Mọ́ín-mọ́ín	mọ́ín-mọ́ín	NOUN	_	_	4	obj	_	Gloss=bean cake
+7	Nàá	nàá	DET	_	_	6	det	_	Gloss=that
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 26
+# text = Ilé mẹ́fà ni bàbá kọ́.
+1	Ilé	ilé	NOUN	_	_	5	nsubj	_	Gloss=house
+2	Mẹ́fà	mẹ́fà	ADJ	_	_	1	amod	_	Gloss=six
+3	Ni	ni	AUX	_	_	5	cop	_	Gloss=is
+4	Bàbá	bàbá	NOUN	_	_	5	obl:agent	_	Gloss=father
+5	Kọ́	kọ́	VERB	_	_	0	root	_	Gloss=built
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# Sentence 27
+# text = Aṣọ dúdú kò dára.
+1	Aṣọ	aṣọ	NOUN	_	_	4	nsubj	_	Gloss=cloth
+2	Dúdú	dúdú	ADJ	_	_	1	amod	_	Gloss=black
+3	Kò	kò	PART	_	_	4	neg	_	Gloss=not
+4	Dára	dára	VERB	_	_	0	root	_	Gloss=is good
+5	.	.	PUNCT	_	_	4	punct	_	_
+# Sentence 28
+# text = Owó ṣe pátákì láyé èdá.
+1	Owó	owó	NOUN	_	_	3	nsubj	_	Gloss=money
+2	Ṣe	ṣe	AUX	_	_	3	cop	_	Gloss=is
+3	Pátákì	pátákì	ADJ	_	_	0	root	_	Gloss=important
+4	Láyé	láyé	ADP	_	_	5	case	_	Gloss=in the world of
+5	Èdá	èdá	NOUN	_	_	3	obl	_	Gloss=humans
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 29
+# text = Ìkà kan kò gbé ẹ̀rù dé orí.
+1	Ìkà	ìkà	NOUN	_	_	4	nsubj	_	Gloss=finger
+2	Kan	kan	ADJ	_	_	1	amod	_	Gloss=one
+3	Kò	kò	PART	_	_	4	neg	_	Gloss=not
+4	Gbé	gbé	VERB	_	_	0	root	_	Gloss=carry
+5	Ẹ̀rù	ẹ̀rù	NOUN	_	_	4	obj	_	Gloss=load
+6	Dé	dé	VERB	_	_	4	compound:svc	_	Gloss=reach
+7	Orí	orí	NOUN	_	_	6	obl	_	Gloss=head
+8	.	.	PUNCT	_	_	4	punct	_	_
+# Sentence 30
+# text = Ọgbọ́n ni ẹ̀gbọ́n lọ́ fún wa.
+1	Ọgbọ́n	ọgbọ́n	NOUN	_	_	4	nsubj	_	Gloss=wisdom
+2	ni	ni	AUX	_	_	4	cop	_	Gloss=is
+3	ẹ̀gbọ́n	ẹ̀gbọ́n	NOUN	_	_	4	nsubj	_	Gloss=elder.sibling
+4	lọ́	lọ́	VERB	_	_	0	root	_	Gloss=went
+5	fún	fún	VERB	_	_	4	compound:svc	_	Gloss=give
+6	wa	wa	PRON	_	_	5	obj	_	Gloss=us
+7	.	.	PUNCT	_	_	4	punct	_	_
+# Sentence 31
+# text = Òrìn Kíkọ́ rọ̀ Sọ́lá lórùn púpọ̀.
+1	Òrìn	òrìn	NOUN	_	_	2	compound	_	Gloss=song
+2	Kíkọ́	kíkọ́	NOUN	_	_	3	nsubj	_	Gloss=singing
+3	Rọ̀	rọ̀	VERB	_	_	0	root	_	Gloss=pleases
+4	Sọ́lá	sọ́lá	PROPN	_	_	3	obj	_	Gloss=Sola
+5	Lórùn	lórùn	ADP	_	_	4	case	_	Gloss=at.heart
+6	Púpọ̀	púpọ̀	ADV	_	_	3	advmod	_	Gloss=greatly
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 32
+# text = Pàjàpàjà mú mí lẹ̀sè.
+1	Pàjàpàjà	pàjàpàjà	NOUN	_	_	2	nsubj	_	Gloss=pins.and.needles
+2	Mú	mú	VERB	_	_	0	root	_	Gloss=pricked
+3	Mí	mí	PRON	_	_	2	obj	_	Gloss=me
+4	Lẹ̀sè	lẹ̀sè	NOUN	_	_	2	obl	_	Gloss=on.the.leg
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 33
+# text = Òṣòòsù ní Ọ̀lùkọ́ máa ń wá sílẹ̀ wá.
+1	Òṣòòsù	òṣòòsù	ADV	_	_	6	advmod	_	Gloss=monthly
+2	ní	ní	AUX	_	_	6	cop	_	Gloss=is
+3	Ọ̀lùkọ́	ọ̀lùkọ́	NOUN	_	_	6	nsubj	_	Gloss=teacher
+4	máa	máa	AUX	_	_	6	aux	_	Gloss=always
+5	ń	ń	AUX	_	_	6	aux	_	Gloss=habitually
+6	wá	wá	VERB	_	_	0	root	_	Gloss=comes
+7	sílẹ̀	sílẹ̀	ADV	_	_	6	obl	_	Gloss=home
+8	wá	wá	PRON	_	_	7	nmod:poss	_	Gloss=our
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# Sentence 34
+# text = Púpọ̀ ní àwọn àkẹ́kọ̀ọ́ tí kò fẹ́ràn Ìsìró.
+1	Púpọ̀	púpọ̀	ADJ	_	_	0	root	_	Gloss=many
+2	ni	ni	AUX	_	_	1	cop	_	Gloss=is
+3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
+4	àkẹ́kọ̀ọ́	àkẹ́kọ̀ọ́	NOUN	_	_	1	nsubj	_	Gloss=students
+5	tí	tí	SCONJ	_	_	7	mark	_	Gloss=that
+6	kò	kò	PART	_	_	7	neg	_	Gloss=not
+7	fẹ́ràn	fẹ́ràn	VERB	_	_	4	acl:relcl	_	Gloss=like
+8	Ìsìró	ìsìró	NOUN	_	_	7	obj	_	Gloss=math
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# Sentence 35
+# text = Mẹ́jì-mẹ́jì ní Ọlọ́run dá àwa ènìyàn.
+1	Mẹ́jì-mẹ́jì	mẹ́jì-mẹ́jì	NUM	_	_	4	advmod	_	Gloss=two.by.two
+2	ní	ni	AUX	_	_	4	cop	_	Gloss=is
+3	Ọlọ́run	ọlọ́run	NOUN	_	_	4	nsubj	_	Gloss=God
+4	dá	dá	VERB	_	_	0	root	_	Gloss=created
+5	àwa	àwa	PRON	_	_	6	nmod	_	Gloss=us
+6	ènìyàn	ènìyàn	NOUN	_	_	4	obj	_	Gloss=humans
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 36
+# text = Báyọ̀ ṣe ìṣẹ́ rẹ̀ kìákíà.
+1	Báyọ̀	báyọ̀	PROPN	_	_	2	nsubj	_	Gloss=Bayo
+2	ṣe	ṣe	VERB	_	_	0	root	_	Gloss=did
+3	ìṣẹ́	ìṣẹ́	NOUN	_	_	2	obj	_	Gloss=work
+4	rẹ̀	rẹ̀	PRON	_	_	3	nmod:poss	_	Gloss=his
+5	kìákíà	kìákíà	ADV	_	_	2	advmod	_	Gloss=quickly
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 37
+# text = Àwọn Wọléwọlé wá sí ọjà lánàá.
+1	Àwọn	àwọn	DET	_	_	2	det	_	Gloss=the
+2	Wọléwọlé	wọléwọlé	NOUN	_	_	3	nsubj	_	Gloss=inspectors
+3	wá	wá	VERB	_	_	0	root	_	Gloss=came
+4	sí	sí	ADP	_	_	5	case	_	Gloss=to
+5	ọjà	ọjà	NOUN	_	_	3	obl	_	Gloss=market
+6	lánàá	lánàá	ADV	_	_	3	advmod	_	Gloss=yesterday
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 38
+# text = Làntìlántì ní ọmọ tí ìyàwó mi bí.
+1	Làntìlántì	làntìlántì	ADV	_	_	7	advmod	_	Gloss=prematurely
+2	ní	ni	AUX	_	_	7	cop	_	Gloss=is
+3	ọmọ	ọmọ	NOUN	_	_	7	nsubj	_	Gloss=child
+4	tí	tí	SCONJ	_	_	7	mark	_	Gloss=that
+5	ìyàwó	ìyàwó	NOUN	_	_	7	nsubj	_	Gloss=wife
+6	mi	mi	PRON	_	_	5	nmod:poss	_	Gloss=my
+7	bí	bí	VERB	_	_	0	root	_	Gloss=gave.birth.to
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# Sentence 39
+# text = A gbọ̀dọ̀ máa gbàdúrà ní àárọ̀ọ́.
+1	A	a	PRON	_	_	4	nsubj	_	Gloss=we
+2	gbọ̀dọ̀	gbọ̀dọ̀	AUX	_	_	4	aux	_	Gloss=must
+3	máa	máa	AUX	_	_	4	aux	_	Gloss=always
+4	gbàdúrà	gbàdúrà	VERB	_	_	0	root	_	Gloss=pray
+5	ní	ní	ADP	_	_	6	case	_	Gloss=in
+6	àárọ̀ọ́	àárọ̀ọ́	NOUN	_	_	4	obl	_	Gloss=every.morning
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 40
+# text = Ọmọ jâtìjâtì kan lọ́ fà ìwé rẹ̀ yà.
+1	Ọmọ	ọmọ	NOUN	_	_	6	nsubj	_	Gloss=child
+2	jâtìjâtì	jâtìjâtì	ADJ	_	_	1	amod	_	Gloss=naughty
+3	kan	kan	ADJ	_	_	1	amod	_	Gloss=a.certain
+4	lọ́	lọ́	AUX	_	_	6	aux	_	Gloss=did
+5	fà	fà	VERB	_	_	0	root	_	Gloss=pull
+6	ìwé	ìwé	NOUN	_	_	5	obj	_	Gloss=book
+7	rẹ̀	rẹ̀	PRON	_	_	6	nmod:poss	_	Gloss=his
+8	yà	yà	VERB	_	_	5	compound:svc	_	Gloss=tear
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# Sentence 41
+# text = Ìwọ ni mo rí.
+1	Ìwọ	ìwọ	PRON	_	_	4	obj	_	Gloss=you
+2	ni	ni	AUX	_	_	4	cop	_	Gloss=is
+3	mo	mo	PRON	_	_	4	nsubj	_	Gloss=I
+4	rí	rí	VERB	_	_	0	root	_	Gloss=saw
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 42
+# text = Ẹmi kò ní owó lọ́wọ́.
+1	Ẹmi	ẹmi	PRON	_	_	3	nsubj	_	Gloss=I
+2	kò	kò	PART	_	_	3	neg	_	Gloss=not
+3	ní	ní	VERB	_	_	0	root	_	Gloss=have
+4	owó	owó	NOUN	_	_	3	obj	_	Gloss=money
+5	lọ́wọ́	lọ́wọ́	ADV	_	_	3	obl	_	Gloss=at.hand
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 43
+# text = Mo sun.
+1	Mo	mo	PRON	_	_	2	nsubj	_	Gloss=I
+2	sun	sun	VERB	_	_	0	root	_	Gloss=slept
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 44
+# text = Ó ń sun.
+1	Ó	ó	PRON	_	_	3	nsubj	_	Gloss=he/she
+2	ń	ń	AUX	_	_	3	aux	_	Gloss=is
+3	sun	sun	VERB	_	_	0	root	_	Gloss=sleeping
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 45
+# text = Wọ́n wá.
+1	Wọ́n	wọ́n	PRON	_	_	2	nsubj	_	Gloss=they
+2	wá	wá	VERB	_	_	0	root	_	Gloss=came
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 46
+# text = Mo ń gba bọ̀ọ̀lù.
+1	Mo	mo	PRON	_	_	3	nsubj	_	Gloss=I
+2	ń	ń	AUX	_	_	3	aux	_	Gloss=am
+3	gba	gba	VERB	_	_	0	root	_	Gloss=playing
+4	bọ̀ọ̀lù	bọ̀ọ̀lù	NOUN	_	_	3	obj	_	Gloss=ball
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 47
+# text = A ń gba bọ̀ọ̀lù.
+1	A	a	PRON	_	_	3	nsubj	_	Gloss=we
+2	ń	ń	AUX	_	_	3	aux	_	Gloss=are
+3	gba	gba	VERB	_	_	0	root	_	Gloss=playing
+4	bọ̀ọ̀lù	bọ̀ọ̀lù	NOUN	_	_	3	obj	_	Gloss=ball
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 48
+# text = Ó kí wọ́n.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=he/she
+2	kí	kí	VERB	_	_	0	root	_	Gloss=greeted
+3	wọ́n	wọ́n	PRON	_	_	2	obj	_	Gloss=them
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 49
+# text = Ó kí wá.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=he/she
+2	kí	kí	VERB	_	_	0	root	_	Gloss=greeted
+3	wá	wá	PRON	_	_	2	obj	_	Gloss=us
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 50
+# text = Ìwé mi nìyí.
+1	Ìwé	ìwé	NOUN	_	_	3	nsubj	_	Gloss=book
+2	mi	mi	PRON	_	_	1	nmod:poss	_	Gloss=my
+3	nìyí	nìyí	VERB	_	_	0	root	_	Gloss=this.is
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 51
+# text = Bánjọ́ lọ sí Abẹ́òkúta.
+1	Bánjọ́	bánjọ́	PROPN	_	_	2	nsubj	_	Gloss=Banjo
+2	lọ	lọ	VERB	_	_	0	root	_	Gloss=went
+3	sí	sí	ADP	_	_	4	case	_	Gloss=to
+4	Abẹ́òkúta	abẹ́òkúta	PROPN	_	_	2	obl	_	Gloss=Abeokuta
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 52
+# text = Báyọ̀ dé ní àná.
+1	Báyọ̀	báyọ̀	PROPN	_	_	2	nsubj	_	Gloss=Bayo
+2	dé	dé	VERB	_	_	0	root	_	Gloss=arrived
+3	ní	ní	ADP	_	_	4	case	_	Gloss=on
+4	àná	àná	NOUN	_	_	2	obl	_	Gloss=yesterday
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 53
+# text = Ó dà epo sí oko.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=he/she
+2	dà	dà	VERB	_	_	0	root	_	Gloss=poured
+3	epo	epo	NOUN	_	_	2	obj	_	Gloss=oil
+4	sí	sí	ADP	_	_	5	case	_	Gloss=into
+5	oko	oko	NOUN	_	_	2	obl	_	Gloss=vehicle
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 54
+# text = Olu kò láti lọ sí Èkó.
+1	Olu	olu	PROPN	_	_	4	nsubj	_	Gloss=Olu
+2	kò	kò	PART	_	_	4	neg	_	Gloss=not
+3	láti	láti	PART	_	_	4	mark	_	Gloss=to
+4	lọ	lọ	VERB	_	_	0	root	_	Gloss=go
+5	sí	sí	ADP	_	_	6	case	_	Gloss=to
+6	Èkó	èkó	PROPN	_	_	4	obl	_	Gloss=Lagos
+7	.	.	PUNCT	_	_	4	punct	_	_
+# Sentence 55
+# text = Ọlátúnjí lọ sí Òṣogbo.
+1	Ọlátúnjí	ọlátúnjí	PROPN	_	_	2	nsubj	_	Gloss=Olatunji
+2	lọ	lọ	VERB	_	_	0	root	_	Gloss=went
+3	sí	sí	ADP	_	_	4	case	_	Gloss=to
+4	Òṣogbo	òṣogbo	PROPN	_	_	2	obl	_	Gloss=Osogbo
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 56
+# text = Òjó bá mi nílé.
+1	Òjó	òjó	PROPN	_	_	2	nsubj	_	Gloss=Ojo
+2	bá	bá	VERB	_	_	0	root	_	Gloss=met
+3	mi	mi	PRON	_	_	2	obj	_	Gloss=me
+4	nílé	nílé	ADV	_	_	2	obl	_	Gloss=at.home
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+
+# Sentence 57
+# text = Ó tà sí Olu.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=he/she
+2	tà	tà	VERB	_	_	0	root	_	Gloss=sold
+3	sí	sí	ADP	_	_	4	case	_	Gloss=to
+4	Olu	olu	PROPN	_	_	2	obl	_	Gloss=Olu
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 58
+# text = Ó wà lánàá.
+1	Ó	ó	PRON	_	_	2	nsubj	_	Gloss=he/she
+2	wà	wà	VERB	_	_	0	root	_	Gloss=was.present
+3	lánàá	lánàá	ADV	_	_	2	advmod	_	Gloss=yesterday
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 59
+# text = Odùduwà tédò sí Ilé-Ifẹ̀.
+1	Odùduwà	odùduwà	PROPN	_	_	2	nsubj	_	Gloss=Oduduwa
+2	tédò	tédò	VERB	_	_	0	root	_	Gloss=founded.settlement
+3	sí	sí	ADP	_	_	4	case	_	Gloss=in
+4	Ilé-Ifẹ̀	ilé-ifẹ̀	PROPN	_	_	2	obl	_	Gloss=Ile-Ife
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 60
+# text = Ọgbẹni Wàhábì wà ní Ìkẹjà.
+1	Ọgbẹni	ọgbẹni	NOUN	_	_	2	compound	_	Gloss=Mr.
+2	Wàhàbí	wàhàbí	PROPN	_	_	3	nsubj	_	Gloss=Wahabi
+3	wà	wà	VERB	_	_	0	root	_	Gloss=is
+4	ní	ní	ADP	_	_	5	case	_	Gloss=in
+5	Ìkẹ́jà	ìkẹ́jà	PROPN	_	_	3	obl	_	Gloss=Ikeja
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 61
+# text = Ẹ jẹ́ kí a máa lọ.
+1	Ẹ	ẹ	PRON	_	_	2	nsubj	_	Gloss=you(pl)
+2	jẹ́	jẹ́	VERB	_	_	0	root	_	Gloss=let
+3	kí	kí	SCONJ	_	_	5	mark	_	Gloss=that
+4	a	a	PRON	_	_	5	nsubj	_	Gloss=we
+5	máa	máa	AUX	_	_	6	aux	_	Gloss=continue
+6	lọ	lọ	VERB	_	_	2	ccomp	_	Gloss=go
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 62
+# text = Wọ́n lọ pàárọ̀ aṣọ.
+1	Wọ́n	wọ́n	PRON	_	_	2	nsubj	_	Gloss=they
+2	lọ	lọ	VERB	_	_	0	root	_	Gloss=went
+3	pàárọ̀	pàárọ̀	VERB	_	_	2	compound:svc	_	Gloss=change
+4	aṣọ	aṣọ	NOUN	_	_	3	obj	_	Gloss=clothes
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 63
+# text = Ṣé ẹ fẹ́ máa fi ọmọ kan kẹ́ ọ̀kan ní?
+1	Ṣé	ṣé	AUX	_	_	3	aux	_	Gloss=question.marker
+2	ẹ	ẹ	PRON	_	_	3	nsubj	_	Gloss=you.pl
+3	fẹ́	fẹ́	VERB	_	_	0	root	_	Gloss=want
+4	máa	máa	AUX	_	_	5	aux	_	Gloss=always
+5	fi	fi	VERB	_	_	3	xcomp	_	Gloss=use
+6	ọmọ	ọmọ	NOUN	_	_	5	obj	_	Gloss=child
+7	kan	kan	ADJ	_	_	6	amod	_	Gloss=one
+8	kẹ́	kẹ́	VERB	_	_	5	compound:svc	_	Gloss=replace
+9	ọ̀kan	ọ̀kan	NOUN	_	_	8	obj	_	Gloss=another
+9	ní	ní	PART	_	_	3	discourse	_	Gloss=FOC
+10	?	?	PUNCT	_	_	3	punct	_	_
+
+# Sentence 64
+# text = Ẹ kú àtijọ́ o.
+1	Ẹ	ẹ	PRON	_	_	2	nsubj	_	Gloss=you (pl)
+2	kú	kú	VERB	_	_	0	root	_	Gloss=greet
+3	àtijọ́	àtijọ́	NOUN	_	_	2	obj	_	Gloss=the.past
+4	o	o	PART	_	_	2	discourse	_	Gloss=exclamation
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 65
+# text = Ẹ bá mi kí ìyá mi.
+1	Ẹ	ẹ	PRON	_	_	2	nsubj	_	Gloss=you(pl)
+2	bá	bá	VERB	_	_	0	root	_	Gloss=help
+3	mi	mi	PRON	_	_	2	obj	_	Gloss=me
+4	kí	kí	VERB	_	_	2	compound:svc	_	Gloss=greet
+5	ìyá	ìyá	NOUN	_	_	4	obj	_	Gloss=mother
+6	mi	mi	PRON	_	_	5	nmod:poss	_	Gloss=my
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 66
+# text = Olódùmarè yóò bo yín ní àṣírí.
+1	Olódùmarè	olódùmarè	PROPN	_	_	3	nsubj	_	Gloss=God
+2	yóò	yóò	AUX	_	_	3	aux	_	Gloss=will
+3	bo	bo	VERB	_	_	0	root	_	Gloss=cover
+4	yín	yín	PRON	_	_	3	obj	_	Gloss=you (pl)
+5	ní	ní	ADP	_	_	6	case	_	Gloss=in
+6	àṣírí	àṣírí	NOUN	_	_	3	obl	_	Gloss=secrecy
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 67
+# text = Ẹ jọ̀wọ́ ẹ ràn mí sí mi.
+1	Ẹ	ẹ	PRON	_	_	4	nsubj	_	Gloss=you(pl)
+2	jọ̀wọ́	jọ̀wọ́	ADV	_	_	4	advmod	_	Gloss=please
+3	ẹ	ẹ	PRON	_	_	4	nsubj	_	Gloss=you.pl
+4	ràn	ràn	VERB	_	_	0	root	_	Gloss=send
+5	mí	mí	PRON	_	_	4	obj	_	Gloss=me
+6	sí	sí	ADP	_	_	7	case	_	Gloss=to
+7	mi	mi	PRON	_	_	4	obl	_	Gloss=me
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 68
+# text = Ẹmi ni ọmọ yín.
+1	Ẹmi	ẹmi	PRON	_	_	3	nsubj	_	Gloss=I
+2	ni	ni	AUX	_	_	3	cop	_	Gloss=am
+3	ọmọ	ọmọ	NOUN	_	_	0	root	_	Gloss=child
+4	yín	yín	PRON	_	_	3	nmod:poss	_	Gloss=your
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 69
+# text = N ò máa rètí owó yín láìpẹ́.
+1	N	n	PRON	_	_	4	nsubj	_	Gloss=I
+2	ò	ò	AUX	_	_	4	aux	_	Gloss=will
+3	máa	máa	AUX	_	_	4	aux	_	Gloss=always
+4	rètí	rètí	VERB	_	_	0	root	_	Gloss=expect
+5	owó	owó	NOUN	_	_	4	obj	_	Gloss=money
+6	yín	yín	PRON	_	_	5	nmod:poss	_	Gloss=your
+7	láìpẹ́	láìpẹ́	ADV	_	_	4	advmod	_	Gloss=soon
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 70
+# text = Wọ́n ń pè yín.
+1	Wọ́n	wọ́n	PRON	_	_	3	nsubj	_	Gloss=they
+2	ń	ń	AUX	_	_	3	aux	_	Gloss=are
+3	pè	pè	VERB	_	_	0	root	_	Gloss=calling
+4	yín	yín	PRON	_	_	3	obj	_	Gloss=you(plural)
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 71
+# text = Ìtàn tí ìyá àgbà sọ fún wa dùn.
+1	Ìtàn	ìtàn	NOUN	_	_	5	nsubj	_	Gloss=story
+2	tí	tí	SCONJ	_	_	5	mark	_	Gloss=that
+3	ìyá	ìyá	NOUN	_	_	4	nmod	_	Gloss=mother
+4	àgbà	àgbà	NOUN	_	_	5	nsubj	_	Gloss=elder
+5	sọ	sọ	VERB	_	_	0	root	_	Gloss=told
+6	fún	fún	ADP	_	_	7	case	_	Gloss=to
+7	wa	wa	PRON	_	_	5	obl	_	Gloss=us
+8	dùn	dùn	VERB	_	_	5	compound:svc	_	Gloss=sweet
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# Sentence 72
+# text = Ẹ̀yìn ń dùn mí.
+1	Ẹ̀yìn	ẹ̀yìn	NOUN	_	_	3	nsubj	_	Gloss=teeth
+2	ń	ń	AUX	_	_	3	aux	_	Gloss=is
+3	dùn	dùn	VERB	_	_	0	root	_	Gloss=hurt
+4	mí	mí	PRON	_	_	3	obj	_	Gloss=me
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 73
+# text = Irin ni àwọn alágbède máa ń lò.
+1	Irin	irin	NOUN	_	_	6	obj	_	Gloss=iron
+2	ni	ni	AUX	_	_	6	cop	_	Gloss=is
+3	àwọn	àwọn	DET	_	_	4	det	_	Gloss=the
+4	alágbède	alágbède	NOUN	_	_	6	nsubj	_	Gloss=blacksmiths
+5	máa	máa	AUX	_	_	6	aux	_	Gloss=habitually
+6	ń	ń	AUX	_	_	0	root	_	Gloss=use
+7	lò	lò	VERB	_	_	6	compound:svc	_	Gloss=use
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# Sentence 74
+# text = Mo rí ìbọn ọdẹ kan.
+1	Mo	mo	PRON	_	_	2	nsubj	_	Gloss=I
+2	rí	rí	VERB	_	_	0	root	_	Gloss=saw
+3	ìbọn	ìbọn	NOUN	_	_	2	obj	_	Gloss=gun
+4	ọdẹ	ọdẹ	NOUN	_	_	3	nmod	_	Gloss=hunter
+5	kan	kan	ADJ	_	_	3	amod	_	Gloss=one
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 75
+# text = Ọgbọ́n Ìjàpá pọ̀ púpọ̀.
+1	Ọgbọ́n	ọgbọ́n	NOUN	_	_	3	nsubj	_	Gloss=wisdom
+2	Ìjàpá	ìjàpá	PROPN	_	_	1	nmod:poss	_	Gloss=Tortoise
+3	pọ̀	pọ̀	VERB	_	_	0	root	_	Gloss=is.abundant
+4	púpọ̀	púpọ̀	ADV	_	_	3	advmod	_	Gloss=very
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 76
+# text = Irùn orí Bíọ́lá rẹwà púpọ̀.
+1	Irùn	irùn	NOUN	_	_	4	nsubj	_	Gloss=hair
+2	orí	orí	NOUN	_	_	1	nmod	_	Gloss=head
+3	Bíọ́lá	bíọ́lá	PROPN	_	_	2	nmod	_	Gloss=Biola
+4	rẹwà	rẹwà	VERB	_	_	0	root	_	Gloss=is.beautiful
+5	púpọ̀	púpọ̀	ADV	_	_	4	advmod	_	Gloss=very
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 77
+# text = Ọpọ́n ayò náà dà?
+1	Ọpọn	ọ̀pọn	NOUN	_	_	4	nsubj	_	Gloss=board
+2	ayò	ayò	NOUN	_	_	1	nmod	_	Gloss=ayo.game
+3	nàá	nàá	DET	_	_	1	det	_	Gloss=the
+4	dà	dà	VERB	_	_	0	root	_	Gloss=where.is
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# Sentence 78
+# text = Ìlẹ̀kẹ̀ wà ní ọrùn Olóyè.
+1	Ìlẹ̀kẹ	ìlẹkẹ	NOUN	_	_	2	nsubj	_	Gloss=beads
+2	wà	wà	VERB	_	_	0	root	_	Gloss=is.located
+3	ní	ní	ADP	_	_	4	case	_	Gloss=on
+4	orùn	orùn	NOUN	_	_	2	obl	_	Gloss=neck
+5	Olóyè	oloye	NOUN	_	_	4	nmod	_	Gloss=chief
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 79
+# text = Ẹ jẹ́ kí a kọ orin méje.
+1	Ẹ	ẹ	PRON	_	_	2	nsubj	_	Gloss=you(pl)
+2	jẹ	jẹ́	VERB	_	_	0	root	_	Gloss=let
+3	kí	kí	SCONJ	_	_	5	mark	_	Gloss=that
+4	a	a	PRON	_	_	5	nsubj	_	Gloss=we
+5	kọ	kọ	VERB	_	_	2	ccomp	_	Gloss=sing
+6	orin	orin	NOUN	_	_	5	obj	_	Gloss=song
+7	méje	méje	NUM	_	_	6	nummod	_	Gloss=seven
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 80
+# text = Ẹranko inú igbó ni Ẹkùn.
+1	Ẹranko	ẹranko	NOUN	_	_	5	nsubj	_	Gloss=animal
+2	inú	inú	NOUN	_	_	3	case	_	Gloss=inside
+3	igbó	igbó	NOUN	_	_	1	nmod	_	Gloss=forest
+4	ni	ni	AUX	_	_	5	cop	_	Gloss=is
+5	ẹkùn	ẹkùn	NOUN	_	_	0	root	_	Gloss=tiger
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# Sentence 81
+# text = Òjò ń rọ̀.
+1	Òjò	òjò	NOUN	_	_	3	nsubj	_	Gloss=rain
+2	ń	ń	AUX	_	_	3	aux	_	Gloss=is
+3	rò	rò	VERB	_	_	0	root	_	Gloss=falling
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 82
+# text = Mo ń sọ̀rọ̀.
+1	Mo	mo	PRON	_	_	3	nsubj	_	Gloss=I
+2	ń	ń	AUX	_	_	3	aux	_	Gloss=am
+3	sọ̀rọ̀	sọ̀rọ̀	VERB	_	_	0	root	_	Gloss=speaking
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 83
+# text = Wọ́n yóò wá.
+1	Wọ́n	wọ́n	PRON	_	_	3	nsubj	_	Gloss=they
+2	yóò	yóò	AUX	_	_	3	aux	_	Gloss=will
+3	wá	wá	VERB	_	_	0	root	_	Gloss=come
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 84
+# text = Jídé máa ń lọ sí Èkó ní òṣòòsù.
+1	Jídé	jídé	PROPN	_	_	4	nsubj	_	Gloss=Jide
+2	máa	máa	AUX	_	_	4	aux	_	Gloss=habitually
+3	ń	ń	AUX	_	_	4	aux	_	Gloss=is
+4	lọ	lọ	VERB	_	_	0	root	_	Gloss=goes
+5	sí	sí	ADP	_	_	6	case	_	Gloss=to
+6	Èkó	èkó	PROPN	_	_	4	obl	_	Gloss=Lagos
+7	ní	ní	ADP	_	_	8	case	_	Gloss=every
+8	òṣòòsù	òṣòòsù	NOUN	_	_	4	obl	_	Gloss=monthly
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 85
+# text = Oòrùn máa ń ràn púpọ̀ nígbà ẹ̀ẹ̀rùn.
+1	Oòrùn	oòrùn	NOUN	_	_	4	nsubj	_	Gloss=sun
+2	máa	máa	AUX	_	_	4	aux	_	Gloss=habitually
+3	ń	ń	AUX	_	_	4	aux	_	Gloss=is
+4	ràn	ràn	VERB	_	_	0	root	_	Gloss=shines
+5	púpọ̀	púpọ̀	ADV	_	_	4	advmod	_	Gloss=greatly
+6	nígbà	nígbà	ADP	_	_	7	case	_	Gloss=in.time.of
+7	ẹ̀ẹ̀rùn	ẹ̀ẹ̀rùn	NOUN	_	_	4	obl	_	Gloss=dry.season
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 86
+# text = Ilé ti mọ́.
+1	Ilé	ilé	NOUN	_	_	3	nsubj	_	Gloss=house
+2	ti	ti	AUX	_	_	3	aux	_	Gloss=has
+3	mọ́	mọ́	ADJ	_	_	0	root	_	Gloss=clean
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 87
+# text = Ẹ̀gbọ́n mi ti dé.
+1	Ẹ̀gbọ́n	ẹ̀gbọ́n	NOUN	_	_	4	nsubj	_	Gloss=elder.sibling
+2	mi	mi	PRON	_	_	1	nmod:poss	_	Gloss=my
+3	ti	ti	AUX	_	_	4	aux	_	Gloss=has
+4	dé	dé	VERB	_	_	0	root	_	Gloss=arrived
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 88
+# text = Wọ́n á ti máa kọrin.
+1	Wọ́n	wọ́n	PRON	_	_	5	nsubj	_	Gloss=they
+2	a	a	AUX	_	_	5	aux	_	Gloss=will
+3	ti	ti	AUX	_	_	5	aux	_	Gloss=have
+4	máa	máa	AUX	_	_	5	aux	_	Gloss=habitually
+5	kọrin	kọrin	VERB	_	_	0	root	_	Gloss=sing
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# Sentence 89
+# text = Wọ́n ti ń ṣòrẹ́ ọjọ́ ti pẹ́.
+1	Wọ́n	wọ́n	PRON	_	_	4	nsubj	_	Gloss=they
+2	ti	ti	AUX	_	_	4	aux	_	Gloss=have
+3	ń	ń	AUX	_	_	4	aux	_	Gloss=habitually
+4	sọ̀rẹ̀	sọ̀rẹ̀	VERB	_	_	0	root	_	Gloss=befriend
+5	ọjọ́	ọjọ́	NOUN	_	_	4	obl	_	Gloss=time
+6	ti	ti	AUX	_	_	7	aux	_	Gloss=has
+7	pẹ́	pẹ́	VERB	_	_	4	compound:svc	_	Gloss=long
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 90
+# text = A ti ń retí rẹ.
+1	A	a	PRON	_	_	4	nsubj	_	Gloss=we
+2	ti	ti	AUX	_	_	4	aux	_	Gloss=have
+3	ń	ń	AUX	_	_	4	aux	_	Gloss=been
+4	rètí	rètí	VERB	_	_	0	root	_	Gloss=waiting
+5	rẹ	rẹ	PRON	_	_	4	obj	_	Gloss=you
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 91
+# text = Bíbélì mi dà?
+1	Bíbélì	bíbélì	NOUN	_	_	3	nsubj	_	Gloss=Bible
+2	mi	mi	PRON	_	_	1	nmod:poss	_	Gloss=my
+3	dà	dà	VERB	_	_	0	root	_	Gloss=where.is
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# Sentence 92
+# text = Mo fẹ́ràn iṣẹ́ tísà.
+1	Mo	mo	PRON	_	_	2	nsubj	_	Gloss=I
+2	fẹ́ràn	fẹ́ràn	VERB	_	_	0	root	_	Gloss=like
+3	iṣẹ́	iṣẹ́	NOUN	_	_	2	obj	_	Gloss=work
+4	tísà	tísà	NOUN	_	_	3	nmod	_	Gloss=teacher
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 93
+# text = Nọọsì yẹn ń pè wá.
+1	Nọọsì	nọọsì	NOUN	_	_	4	nsubj	_	Gloss=nurse
+2	yẹn	yẹn	DET	_	_	1	det	_	Gloss=that
+3	ń	ń	AUX	_	_	4	aux	_	Gloss=is
+4	pè	pè	VERB	_	_	0	root	_	Gloss=calling
+5	wá	wá	PRON	_	_	4	obj	_	Gloss=us
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 94
+# text = Táyà mọ́tò náà fò.
+1	Táyà	táyà	NOUN	_	_	4	nsubj	_	Gloss=tire
+2	mọ́tò	mọ́tò	NOUN	_	_	1	nmod	_	Gloss=car
+3	náà	náà	DET	_	_	2	det	_	Gloss=the
+4	fò	fò	VERB	_	_	0	root	_	Gloss=burst
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# Sentence 95
+# text = Sàńdà Bọ́lá já lórí irin.
+1	Sàńdà	sàńdà	NOUN	_	_	3	nsubj	_	Gloss=sandal
+2	Bọ́lá	bọ́lá	PROPN	_	_	1	nmod:poss	_	Gloss=Bola
+3	já	já	VERB	_	_	0	root	_	Gloss=tore
+4	lórí	lórí	ADP	_	_	5	case	_	Gloss=on
+5	irin	irin	NOUN	_	_	3	obl	_	Gloss=iron
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 96
+# text = Wọ́n kó ọdaran náà lọ sí tésán ọlọ́pàá.
+1	Wọ́n	wọ́n	PRON	_	_	2	nsubj	_	Gloss=they
+2	kó	kó	VERB	_	_	0	root	_	Gloss=took
+3	ọdaran	ọdaran	NOUN	_	_	2	obj	_	Gloss=criminal
+4	náà	náà	DET	_	_	3	det	_	Gloss=the
+5	lọ	lọ	VERB	_	_	2	compound:svc	_	Gloss=move
+6	sí	sí	ADP	_	_	7	case	_	Gloss=to
+7	tésán	tésán	NOUN	_	_	2	obl	_	Gloss=station
+8	ọlọ́pàá	ọlọ́pàá	NOUN	_	_	7	nmod	_	Gloss=police
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# Sentence 97
+# text = Bulóòkù ni wọ́n fi kọ́ ilé yẹn.
+1	Bulóòkù	bulóòkù	NOUN	_	_	5	obj	_	Gloss=block
+2	ni	ni	AUX	_	_	5	cop	_	Gloss=is
+3	wọ́n	wọ́n	PRON	_	_	5	nsubj	_	Gloss=they
+4	fi	fi	VERB	_	_	5	compound:svc	_	Gloss=use
+5	kọ́	kọ́	VERB	_	_	0	root	_	Gloss=build
+6	ilé	ilé	NOUN	_	_	5	obj	_	Gloss=house
+7	yẹn	yẹn	DET	_	_	6	det	_	Gloss=that
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# Sentence 98
+# text = Bísọ́ọ̀bù yóò wá sí ṣọ́ọ̀ṣì wa ní ọ̀la.
+1	Bísọ́ọ̀bù	bísọ́ọ̀bù	NOUN	_	_	3	nsubj	_	Gloss=bishop
+2	yóò	yóò	AUX	_	_	3	aux	_	Gloss=will
+3	wá	wá	VERB	_	_	0	root	_	Gloss=come
+4	sí	sí	ADP	_	_	5	case	_	Gloss=to
+5	ṣọ́ọ̀ṣì	ṣọ́ọ̀ṣì	NOUN	_	_	3	obl	_	Gloss=church
+6	wa	wa	PRON	_	_	5	nmod:poss	_	Gloss=our
+7	ní	ní	ADP	_	_	8	case	_	Gloss=on
+8	ọ̀la	ọ̀la	NOUN	_	_	3	obl	_	Gloss=tomorrow
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 99
+# text = Àwọn ṣọ́jà pa àwọn ajínigbé mẹ́ta.
+1	Àwọn	àwọn	DET	_	_	2	det	_	Gloss=the
+2	ṣọ́jà	ṣọ́jà	NOUN	_	_	3	nsubj	_	Gloss=soldiers
+3	pa	pa	VERB	_	_	0	root	_	Gloss=killed
+4	àwọn	àwọn	DET	_	_	5	det	_	Gloss=the
+5	ajínigbé	ajínigbé	NOUN	_	_	3	obj	_	Gloss=kidnappers
+6	mẹ́ta	mẹ́ta	NUM	_	_	5	nummod	_	Gloss=three
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# Sentence 100
+# text = Lọ́yà ìjọba kò sọ̀rọ̀ kankan.
+1	Lọ́yà	lọ́yà	NOUN	_	_	4	nsubj	_	Gloss=lawyer
+2	ìjọba	ìjọba	NOUN	_	_	1	nmod	_	Gloss=government
+3	kò	kò	PART	_	_	4	neg	_	Gloss=not
+4	sọ̀rọ̀	sọ̀rọ̀	VERB	_	_	0	root	_	Gloss=speak
+5	kankan	kankan	ADV	_	_	4	advmod	_	Gloss=at.all
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+
+
